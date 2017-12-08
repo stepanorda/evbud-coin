@@ -1,0 +1,11 @@
+{
+  "name": "evbud-coin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:stepanorda/evbud-coin.git",
+  "author": "Stepan Orda <stepanorda87@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "zeppelin-solidity": "^1.4.0"
+  }
+}
